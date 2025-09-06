@@ -1,0 +1,55 @@
+.deleteBtn {
+  background-color: red !important;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
+
+.deleteBtn:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 4px 10px rgba(255, 0, 0, 0.4);
+
+}
+
+.updatebtn {
+  background-color: blue !important;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 0.3rem 1.2rem;
+  margin-left: 0.5rem;
+}
+
+.updatebtn:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 4px 10px rgba(255, 0, 0, 0.4);
+}
+
+.promoTable {
+  border: 0px !important;
+}
+
+.carlisttable thead tr {
+  background-color: #fcfcfd;
+}
+
+.carlisttable th {
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+}
+
+.carlisttable td {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+}
+
+.carlisttable th,
+.carlisttable td {
+  height: 72px;
+  vertical-align: middle;
+  text-align: start;
+}

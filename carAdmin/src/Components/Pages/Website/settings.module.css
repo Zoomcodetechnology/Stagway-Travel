@@ -1,0 +1,275 @@
+
+.greaterthan {
+  font-size: 20px;
+}
+.settingSection {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  width: 100%;
+}
+.Commoncolor {
+  color: #0d6efd !important;
+}
+.Commoncolorbg {
+  background-color: #0d6efd !important;
+}
+.promoAddonsTxt {
+  font-weight: 600 !important;
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16px;
+  white-space: nowrap;
+}
+.addonstxt {
+  margin-right: 10px;
+}
+.settingTopInputsPromo {
+  width: 130px;
+  height: 32px;
+  border-radius: 6px;
+  border: 1px solid #969191;
+  margin-left: 30px;
+  text-align: center;
+}
+.setingapplybtn {
+  width: 51px;
+  height: 22px;
+  border-radius: 4px;
+  padding: 2px 8px 2px 8px;
+  background-color: #0d6efd !important ;
+  color: #fff;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 3%;
+}
+.updatesettingbtn {
+  width: 70px;
+  height: 30px;
+  border-radius: 4px;
+  background-color: #0d6efd !important;
+  color: #fff;
+  font-size: 15px;
+  line-height: 18px;
+  font-family: "Inter", serif;
+  letter-spacing: 3%;
+  box-shadow: 1px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+.dateinputSeting {
+  margin-right: 20px;
+  margin-left: 10px;
+  font-size: 13px;
+  height: 32px !important;
+  padding-left: 2px;
+  border: 1px solid gray;
+  border-radius: 6px;
+}
+.nameInputSeting {
+  margin-right: 16px;
+}
+.settignapplybtnlast {
+  margin-left: 10px;
+}
+.leftTopSettings {
+  width: 575px;
+}
+.rightTopSettings {
+  width: 491px;
+}
+.questionpart {
+  background-color: #eaf1ff;
+  border-radius: 8px;
+  padding: 7px;
+}
+.faqchkbox {
+  margin: 0px !important;
+  height: 15px !important;
+  margin-right: 6px !important;
+}
+.faqSection {
+  margin-top: 15px;
+}
+
+.tabsHere {
+  background-color: #e9edf5;
+  list-style-type: none;
+  width: 290px;
+  height: 38px;
+  margin-top: 20px;
+  border-radius: 6px;
+  padding: 2px;
+  gap: 6px;
+  text-align: center;
+  padding-bottom: 40px !important;
+}
+.faqt {
+  margin-top: 4px;
+  margin-left: 5px;
+  width: 56px;
+  height: 31px;
+  border-radius: 4px;
+  padding: 4px 10px 4px 10px;
+  gap: 10px;
+  background-color: #fff;
+}
+.faqt span {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2%;
+  text-align: center;
+  font-family: "Inter", serif;
+}
+.pcode span {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2%;
+  text-align: center;
+  font-family: "Inter", serif;
+}
+.addon span {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2%;
+  text-align: center;
+  font-family: "Inter", serif;
+}
+.Airport span {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2%;
+  text-align: center;
+  font-family: "Inter", serif;
+}
+.pcode {
+  margin-top: 4px;
+  width: 114px;
+  height: 31px;
+  border-radius: 4px;
+  padding: 4px 10px 4px 10px;
+  gap: 10px;
+  background-color: #fff;
+}
+.addon {
+  margin-top: 4px;
+  width: 80px;
+  height: 31px;
+  border-radius: 4px;
+  padding: 4px 10px 4px 10px;
+  gap: 10px;
+  background-color: #fff;
+}
+.Airport{
+    margin-top: 4px;
+    width: 80px;
+    height: 31px;
+    border-radius: 4px;
+    padding: 4px 10px 4px 10px;
+    gap: 10px;
+    background-color: #fff;
+}
+.tabsHere li a {
+  text-decoration: none !important;
+}
+.faqinput {
+  margin-top: 10px;
+}
+.faqRightpart {
+  margin-top: 20px !important;
+  width: fit-content;
+}
+
+.promoSection {
+  margin-bottom: 16px;
+  margin-top: 24px;
+  display: flex;
+}
+
+.textPrimary {
+  color: #333;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.inputDate {
+  padding: 8px;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  outline: none;
+  width: 150px;
+  margin-left: 25px;
+}
+
+.inputText {
+  padding: 8px;
+  margin-left: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.applyButton {
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-left: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.adonSection {
+  margin-bottom: 16px;
+  margin-top: 28px;
+  margin-bottom: 30px;
+}
+
+.addoninput {
+  padding: 8px;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  outline: none;
+  width: 140px;
+  margin-left: 33px;
+}
+.addonbtn {
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-left: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.AirportContainer{
+  padding: 8px;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  outline: none;
+  width: 140px;
+  margin-left: 33px;
+}
+.AirportTxt{
+  margin-right: 8px;
+  margin-top: 10px;
+  margin-left:3rem;
+  font-size: 1rem;
+}
+.Airportinput{
+  padding: 8px;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  outline: none;
+  width: 150px;
+  margin-left: 2.8rem;
+}
+.Airportbtn{
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-left: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}

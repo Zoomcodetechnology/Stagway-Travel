@@ -1,0 +1,38 @@
+.questiontxt {
+    background-color: #EAF1FF !important;
+    margin-bottom: 8px;
+    border-radius: 9px;
+}
+
+.faqAnsTxt {
+    flex-grow: 1;
+    min-width: 0;
+    overflow-wrap: break-word;
+}
+
+.faqBtnContainer {
+    display: flex;
+    gap: 0.5rem;
+    flex-shrink: 0;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+
+.faqBtn {
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 10px;
+    background-color: #0d6efd;
+    color: #fff;
+    font-size: 1rem;
+    white-space: nowrap;
+}
+
+.faqBtn:first-child {
+    padding: 0.5rem 2.7rem;
+}
+
+.faqBtn:last-child {
+    color: white;
+    background-color: red;
+}

@@ -1,0 +1,118 @@
+.container {
+    max-width: 100vw;
+  }
+  
+  .profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .table th,
+  .table td {
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+  .table th {
+    font-weight: bold;
+  }
+  .emaildiv{
+    font-size: 10px;
+  }
+  .maindiv{
+    height:108px;
+   
+
+  }
+  .profilediv{
+    display: flex;
+    flex-direction: column;
+  }
+  .namediv{
+    width:40%;
+   
+
+  }
+  .buttondiv{
+    margin-left: 22px;
+    margin-top: 10px;
+    border: none;
+
+  }
+  .mycard{
+    border:none;
+    height:90px;
+  }
+  .name{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 500px;
+  }
+  .usertitle {
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Inter';
+    margin-bottom: 10px;
+  }
+  
+  .mymail{
+    font-size: 11px;
+    margin-top: 6px;
+    font-family: 'Inter';
+
+  }
+  .mydiv{
+    display: flex;
+    gap: 15px;
+  }
+  .mydiv p{
+    margin-bottom: 0;
+  }
+  .profilemain{
+    display: flex;
+    margin: -89px;
+   gap:20px
+  }
+  .profilepic{
+    font-size: 17px;
+  }
+  .dashicon-user {
+    margin-right: 10px;
+    height: 0;
+    font-size: 15px;
+  }
+  .image{
+    height:49px
+  }
+  .updatebtn{
+    color:#9E9BF5
+  }
+
+ .ullist{
+  background-color: #E9EDF5;
+  width:310px;
+  /* padding: 4px; */
+  border-radius: 10px;
+ }
+ .tabledata{
+  font-size: 13px;
+  margin-left: 10px;
+  font-family: 'Inter';
+ }
+ .topbar{
+  display: flex;
+  justify-content: space-between;
+ }
+ /* .topbar button{
+  
+ } */
+  .btnnn button{
+    border: none;
+    background-color:#0d6efd ;
+    color: white;
+    padding: 4px 6px;
+    border-radius:4px
+  }
+ 
+  
